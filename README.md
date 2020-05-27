@@ -3,7 +3,7 @@ After conducting a literature field and interviewing subject experts, we identif
 Core data attributes/fields included:
 
 **Circulation attributes:**
-* StopIdentifier 
+* 'StopIdentifier' 
 * CheckoutDate 
 * ReturnDate 
 * CheckoutCounts 
