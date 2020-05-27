@@ -1,0 +1,4 @@
+StopName,StopType,Latitude,Longitude,StopMonth,StopYear,"StopRoadCondition
+",StopDuration
+"Name that identifies stop; same as other dataset.
+","Type of stop, e.g., school, retirement community, daycare, etc.",Latitude coordinate of stop.,Longitude coordinate of stop.,Month in which the stop was conducted.,Year in which the stop was conducted.,Road condition at or on the way to the stop.,Length of time the bookmobile was at the stop.

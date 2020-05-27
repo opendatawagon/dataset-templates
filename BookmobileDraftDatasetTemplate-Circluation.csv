@@ -1,0 +1,5 @@
+"StopName
+",CheckoutMonth,CheckoutYear,ReturnMonth,ReturnYear,CheckoutCounts,ItemType,ItemLanguage,Title,Creator,PubYear,CardType,CardZIP
+"Bookmobile stop identifier - this one may end up being tricky according to NCRL, trying to work out how to pull/join this data",Month of the year item checked out,Year item checked out,Month of the year item returned,Month of the year item returned,"Number of times the item (title, creator, pub year) was checked out","book, song, movie, music, magazine
+
+Question - do we want to include physical things like wifi, ipads, computers, etc",Language of ItemType checked out,The full title and subtitle of an individual item - via SPL Checkouts by Title dataset.,The author or entity responsible for authoring the item - via SPL Checkouts by Title dataset.,"The year from the catalog record in which the item was published, printed, or copyrighted - via SPL Checkouts by Title dataset.",Type of patron card used to check out item.,ZIP code of carcholder
